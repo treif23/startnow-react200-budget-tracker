@@ -50,7 +50,7 @@ export default class App extends React.Component {
                     <tbody>
                       <tr>
                         <td>Rent</td>
-                        <td>$$4,000.00</td>
+                        <td>$4,000.00</td>
                       </tr>
                     </tbody>
                   </table>

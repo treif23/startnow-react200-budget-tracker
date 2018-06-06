@@ -1,2 +1,8 @@
 node_modules
 dist
+app.jsx
+rootStore.js
+index.js
+index.jsx
+ExpenseEntries.jsx
+IncomeEntries.jsx

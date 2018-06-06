@@ -1,6 +1,6 @@
 import React from 'react';
 
-expoer default class ExpenseEntries extends React.component {
+export default class ExpenseEntries extends React.component {
     constructor(props) {
         super(props);
     }
