@@ -7,3 +7,6 @@ index.jsx
 ExpenseEntries.jsx
 IncomeEntries.jsx
 Summary.jsx
+expenseReducer.js
+incomeReducer.js
+rootReducer.js
