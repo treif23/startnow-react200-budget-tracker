@@ -10,3 +10,5 @@ Summary.jsx
 expenseReducer.js
 incomeReducer.js
 rootReducer.js
+expenseActions.js
+incomeActions.js
